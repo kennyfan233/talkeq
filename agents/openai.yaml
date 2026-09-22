@@ -1,0 +1,6 @@
+interface:
+  display_name: "TalkEQ 沟通情商教练"
+  short_description: "通过情境作答、具体反馈与薄弱项复练，练习清晰表达和关系边界"
+  default_prompt: "使用 $talkeq 介绍训练规则，列出九大板块和可复制的练习提示词，让我选择想练的内容。"
+policy:
+  allow_implicit_invocation: true

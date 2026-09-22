@@ -1,0 +1,146 @@
+[
+  {
+    "id": "team-1",
+    "module": "team",
+    "fingerprints": [
+      "topic-drift"
+    ],
+    "title": "团队同步",
+    "situation": "群里设计师说页面还没定，工程师问今天能否开工。你掌握的信息是主流程已确认，插图待定。",
+    "question": "请发一条让团队能继续推进的消息。",
+    "focus": "当前问题、决定、下一步",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "另一位同事同时提起下个月的新功能。"
+    ]
+  },
+  {
+    "id": "tasks-1",
+    "module": "tasks",
+    "fingerprints": [
+      "unclear-action"
+    ],
+    "title": "任务与决定",
+    "situation": "你希望同事周五前整理十条用户反馈，按问题类型归类，供周一讨论。",
+    "question": "请写一条任务消息。",
+    "focus": "责任、任务、时间、完成标准",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "你同时有一个尚未决定的新想法，避免让它听起来也是任务。"
+    ]
+  },
+  {
+    "id": "layering-1",
+    "module": "layering",
+    "fingerprints": [
+      "context-overload"
+    ],
+    "title": "信息分层",
+    "situation": "负责人问发布是否延期。测试发现支付失败，预计明午修好，原定今晚发布，其他功能正常。",
+    "question": "请先用最必要的信息回答。",
+    "focus": "结论、影响、下一步",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "对方正在开会，只能看两句话。"
+    ]
+  },
+  {
+    "id": "attention-1",
+    "module": "attention",
+    "fingerprints": [
+      "attention-burden"
+    ],
+    "title": "注意力边界",
+    "situation": "你想请朋友评价一个产品想法，背景散落在你过去十条动态里。",
+    "question": "请写一条朋友可以轻松选择是否参与的邀请。",
+    "focus": "必要背景直接提供、额外材料可选",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "朋友最近工作忙，已说过没时间读长材料。"
+    ]
+  },
+  {
+    "id": "emotion-1",
+    "module": "emotion",
+    "fingerprints": [
+      "premature-advice"
+    ],
+    "title": "情绪回应",
+    "situation": "朋友说：今天又被否定了，我真的很累。你脑中立刻出现三个解决方法。",
+    "question": "你的第一句回应是什么？",
+    "focus": "先理解需求，再决定是否建议",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "你以前给过相似建议，对方这次没有询问方案。"
+    ]
+  },
+  {
+    "id": "pause-1",
+    "module": "pause",
+    "fingerprints": [
+      "contact-pretext"
+    ],
+    "title": "发送前暂停",
+    "situation": "你昨天发出的私人消息尚未收到回复，今天想借一个不相关的工作链接再联系对方。",
+    "question": "你会怎么做？请说明依据。",
+    "focus": "区分想得到回应与联系的实际需要",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "对方仍会回复群里的必要工作事项。"
+    ]
+  },
+  {
+    "id": "relationship-1",
+    "module": "relationship",
+    "fingerprints": [
+      "mind-reading"
+    ],
+    "title": "关系边界",
+    "situation": "对方回复友好，但两次邀请都说忙，没有提出其他时间。",
+    "question": "目前哪些是事实，哪些未知？你准备怎么做？",
+    "focus": "互惠证据、未知、尊重边界",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "你们还需要在同一个项目中合作。"
+    ]
+  },
+  {
+    "id": "compatibility-1",
+    "module": "compatibility",
+    "fingerprints": [
+      "boundary-pressure"
+    ],
+    "title": "关系适配",
+    "situation": "你喜欢每天聊天，对方明确说更适合隔几天联系。你们都表示愿意了解彼此。",
+    "question": "你会如何讨论这个差异？",
+    "focus": "偏好协商、自主空间、适配",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "对方已拒绝每天固定报备的提议。"
+    ]
+  },
+  {
+    "id": "professional-1",
+    "module": "professional",
+    "fingerprints": [
+      "context-overload"
+    ],
+    "title": "专业沟通",
+    "situation": "你在活动上认识一位潜在合作方。你做帮助小团队汇总用户反馈的工具，对方负责产品研究。",
+    "question": "写一段约 15 秒的自然介绍，并留下对方回应的空间。",
+    "focus": "身份、项目价值、联系理由",
+    "challenges": [
+      "没有额外条件。",
+      "对方希望你尽快回应。",
+      "对方两分钟后要离开，不能讲完整创业经历。"
+    ]
+  }
+]
